@@ -1,4 +1,6 @@
 {
-  "version" : "1.3.11"
+  "version_MAYOR" : 1,
+  "version_MINOR" : 3,
+  "version_PATCH" : 11,
   "url" : "https://iwpcb.github.io/firmware_1.3.11.bin"
 }
