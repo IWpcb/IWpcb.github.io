@@ -2,6 +2,6 @@
   "mayorVersion" : 2,
   "minorVersion" : 0,
   "patchVersion" : 1,
-  "urlB4" : "https://iwpcb.github.io/b4_firmware_2.0.1.bin"
+  "urlB4" : "https://iwpcb.github.io/b4_firmware_2.0.1.bin",
   "urlB5" : "https://iwpcb.github.io/b5_firmware_2.0.1.bin"
 }
